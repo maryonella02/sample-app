@@ -1,5 +1,5 @@
 ping=100ms
-host=google
+host=amazon
 
 
 
