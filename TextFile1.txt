@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ping=5ms
 host=google
+=======
+ping=100ms
+host=amazon
+>>>>>>> 97293e7ca54eec19cbc370a5d3d4b199d6cc9b8d
 
 
 
