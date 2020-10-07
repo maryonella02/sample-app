@@ -1,4 +1,4 @@
-ping=100ms
+ping=5ms
 host=google
 
 
