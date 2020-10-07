@@ -1,0 +1,15 @@
+ping=100ms
+host=google
+
+
+
+
+
+
+
+
+
+
+
+
+
